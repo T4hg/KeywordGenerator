@@ -1,5 +1,5 @@
 # KeywordGenerator
-Most used keywords generator (From Alting, Your web...)
+Most used keywords generator (Based on Keywords API)
 
 <p align="center"><kbd><img src="https://i.postimg.cc/Xqk6G3zM/Captura-de-pantalla-2022-04-14-121024.png" width="100%" height="100%" alt="KeywordsGen" /></kbd></p>
 <br>
